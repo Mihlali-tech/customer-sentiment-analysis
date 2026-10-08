@@ -1,0 +1,301 @@
+review_id,review_text,rating,product_category,date,customer_type,sentiment,sentiment_score
+REV-1001,Average product for the price. Delivery took a bit long.,2,Electronics,2025-02-22,New,Neutral,-0.1
+REV-1002,"It's okay, nothing special. Does the job.",2,Books,2025-04-22,New,Positive,0.43
+REV-1003,"The item is fine, but instructions were confusing.",3,Home & Kitchen,2025-08-03,VIP,Neutral,0.06
+REV-1004,"It's okay, nothing special. Does the job.",3,Home & Kitchen,2025-03-23,Regular,Positive,0.43
+REV-1005,Fantastic customer service and works like a charm.,4,Beauty,2025-02-22,Regular,Positive,0.4
+REV-1006,Top-notch quality. Will definitely buy again!,5,Electronics,2025-05-16,Regular,Positive,0.5
+REV-1007,"Very happy with my purchase, worth every penny.",4,Electronics,2025-02-10,VIP,Positive,0.65
+REV-1008,Not worth the money at all. Stopped working immediately.,1,Books,2025-10-23,Regular,Negative,-0.15
+REV-1009,Fantastic customer service and works like a charm.,5,Home & Kitchen,2025-02-10,VIP,Positive,0.4
+REV-1010,Fantastic customer service and works like a charm.,5,Home & Kitchen,2025-03-25,New,Positive,0.4
+REV-1011,Absolutely love this product! Exceeded my expectations.,4,Apparel,2025-11-08,Regular,Positive,0.62
+REV-1012,"Met basic expectations, though I expected a bit more durability.",2,Home & Kitchen,2025-05-19,VIP,Positive,0.13
+REV-1013,"It's okay, nothing special. Does the job.",3,Books,2025-04-28,New,Positive,0.43
+REV-1014,Top-notch quality. Will definitely buy again!,4,Electronics,2025-06-11,Regular,Positive,0.5
+REV-1015,"Very happy with my purchase, worth every penny.",5,Home & Kitchen,2025-03-15,VIP,Positive,0.65
+REV-1016,Fantastic customer service and works like a charm.,5,Apparel,2025-10-27,New,Positive,0.4
+REV-1017,Great quality and fast shipping. Highly recommend!,4,Beauty,2025-09-18,VIP,Positive,0.4
+REV-1018,Average product for the price. Delivery took a bit long.,3,Beauty,2025-11-18,New,Neutral,-0.1
+REV-1019,"Very happy with my purchase, worth every penny.",4,Home & Kitchen,2025-11-02,VIP,Positive,0.65
+REV-1020,Absolutely love this product! Exceeded my expectations.,5,Beauty,2025-12-15,VIP,Positive,0.62
+REV-1021,Not worth the money at all. Stopped working immediately.,2,Electronics,2025-02-27,VIP,Negative,-0.15
+REV-1022,Fantastic customer service and works like a charm.,4,Apparel,2025-09-14,Regular,Positive,0.4
+REV-1023,Not worth the money at all. Stopped working immediately.,2,Home & Kitchen,2025-11-24,VIP,Negative,-0.15
+REV-1024,Great quality and fast shipping. Highly recommend!,4,Books,2025-10-04,VIP,Positive,0.4
+REV-1025,"It's okay, nothing special. Does the job.",3,Books,2025-07-05,New,Positive,0.43
+REV-1026,Absolutely love this product! Exceeded my expectations.,5,Apparel,2025-02-13,New,Positive,0.62
+REV-1027,Very disappointed. Customer support was unhelpful.,1,Beauty,2025-03-07,New,Negative,-0.98
+REV-1028,Top-notch quality. Will definitely buy again!,5,Beauty,2025-08-05,VIP,Positive,0.5
+REV-1029,"Decent quality, but packaging was slightly damaged.",3,Home & Kitchen,2025-07-24,VIP,Neutral,0.0
+REV-1030,Very disappointed. Customer support was unhelpful.,1,Apparel,2025-04-26,Regular,Negative,-0.98
+REV-1031,Top-notch quality. Will definitely buy again!,5,Electronics,2025-04-23,Regular,Positive,0.5
+REV-1032,"It's okay, nothing special. Does the job.",2,Electronics,2025-01-17,New,Positive,0.43
+REV-1033,"Very happy with my purchase, worth every penny.",4,Apparel,2025-04-20,New,Positive,0.65
+REV-1034,"The item is fine, but instructions were confusing.",3,Books,2025-08-31,New,Neutral,0.06
+REV-1035,Terrible quality broke after two days of use.,1,Home & Kitchen,2025-12-04,Regular,Negative,-1.0
+REV-1036,Absolutely love this product! Exceeded my expectations.,5,Beauty,2025-12-11,Regular,Positive,0.62
+REV-1037,Absolutely love this product! Exceeded my expectations.,4,Electronics,2025-05-08,New,Positive,0.62
+REV-1038,Great quality and fast shipping. Highly recommend!,4,Home & Kitchen,2025-05-23,New,Positive,0.4
+REV-1039,Do not buy this! Total waste of money.,1,Beauty,2025-02-20,New,Neutral,-0.1
+REV-1040,Terrible quality broke after two days of use.,2,Electronics,2025-05-02,VIP,Negative,-1.0
+REV-1041,"Very happy with my purchase, worth every penny.",4,Home & Kitchen,2025-01-31,Regular,Positive,0.65
+REV-1042,"Very happy with my purchase, worth every penny.",4,Home & Kitchen,2025-05-27,Regular,Positive,0.65
+REV-1043,Do not buy this! Total waste of money.,2,Beauty,2025-12-05,VIP,Neutral,-0.1
+REV-1044,Absolutely love this product! Exceeded my expectations.,4,Beauty,2025-10-24,New,Positive,0.62
+REV-1045,"The item is fine, but instructions were confusing.",2,Books,2025-09-02,New,Neutral,0.06
+REV-1046,Absolutely love this product! Exceeded my expectations.,5,Books,2025-04-06,VIP,Positive,0.62
+REV-1047,"Very happy with my purchase, worth every penny.",5,Electronics,2025-03-03,VIP,Positive,0.65
+REV-1048,"It's okay, nothing special. Does the job.",2,Books,2025-08-03,New,Positive,0.43
+REV-1049,Great quality and fast shipping. Highly recommend!,5,Books,2025-12-09,VIP,Positive,0.4
+REV-1050,Fantastic customer service and works like a charm.,4,Apparel,2025-08-23,New,Positive,0.4
+REV-1051,Top-notch quality. Will definitely buy again!,5,Apparel,2025-02-21,New,Positive,0.5
+REV-1052,Fantastic customer service and works like a charm.,4,Electronics,2025-02-05,VIP,Positive,0.4
+REV-1053,Top-notch quality. Will definitely buy again!,5,Home & Kitchen,2025-12-27,Regular,Positive,0.5
+REV-1054,Do not buy this! Total waste of money.,2,Apparel,2025-01-05,VIP,Neutral,-0.1
+REV-1055,Very disappointed. Customer support was unhelpful.,1,Books,2025-05-16,Regular,Negative,-0.98
+REV-1056,"Decent quality, but packaging was slightly damaged.",2,Electronics,2025-11-06,New,Neutral,0.0
+REV-1057,Fantastic customer service and works like a charm.,5,Home & Kitchen,2025-09-16,VIP,Positive,0.4
+REV-1058,Terrible quality broke after two days of use.,2,Beauty,2025-11-21,Regular,Negative,-1.0
+REV-1059,Great quality and fast shipping. Highly recommend!,4,Beauty,2025-11-23,Regular,Positive,0.4
+REV-1060,"Met basic expectations, though I expected a bit more durability.",3,Apparel,2025-10-15,New,Positive,0.13
+REV-1061,Great quality and fast shipping. Highly recommend!,5,Electronics,2025-10-07,New,Positive,0.4
+REV-1062,Average product for the price. Delivery took a bit long.,2,Electronics,2025-01-22,Regular,Neutral,-0.1
+REV-1063,Terrible quality broke after two days of use.,2,Apparel,2025-07-03,Regular,Negative,-1.0
+REV-1064,Top-notch quality. Will definitely buy again!,4,Home & Kitchen,2025-07-28,VIP,Positive,0.5
+REV-1065,Great quality and fast shipping. Highly recommend!,5,Books,2025-04-01,VIP,Positive,0.4
+REV-1066,"Very happy with my purchase, worth every penny.",5,Beauty,2025-12-09,New,Positive,0.65
+REV-1067,"Very happy with my purchase, worth every penny.",5,Home & Kitchen,2025-01-20,Regular,Positive,0.65
+REV-1068,Fantastic customer service and works like a charm.,5,Beauty,2025-06-06,New,Positive,0.4
+REV-1069,Fantastic customer service and works like a charm.,4,Home & Kitchen,2025-05-23,New,Positive,0.4
+REV-1070,Top-notch quality. Will definitely buy again!,5,Electronics,2025-06-19,Regular,Positive,0.5
+REV-1071,Do not buy this! Total waste of money.,1,Electronics,2025-05-16,New,Neutral,-0.1
+REV-1072,"Decent quality, but packaging was slightly damaged.",3,Electronics,2025-08-12,New,Neutral,0.0
+REV-1073,Great quality and fast shipping. Highly recommend!,5,Books,2025-05-11,VIP,Positive,0.4
+REV-1074,Top-notch quality. Will definitely buy again!,5,Electronics,2025-12-18,VIP,Positive,0.5
+REV-1075,Fantastic customer service and works like a charm.,5,Home & Kitchen,2025-11-16,Regular,Positive,0.4
+REV-1076,Not worth the money at all. Stopped working immediately.,2,Apparel,2025-09-17,VIP,Negative,-0.15
+REV-1077,Fantastic customer service and works like a charm.,5,Apparel,2025-10-11,VIP,Positive,0.4
+REV-1078,Great quality and fast shipping. Highly recommend!,5,Home & Kitchen,2025-11-12,New,Positive,0.4
+REV-1079,Fantastic customer service and works like a charm.,5,Books,2025-05-27,Regular,Positive,0.4
+REV-1080,"Decent quality, but packaging was slightly damaged.",3,Home & Kitchen,2025-08-27,Regular,Neutral,0.0
+REV-1081,Average product for the price. Delivery took a bit long.,3,Beauty,2025-12-04,Regular,Neutral,-0.1
+REV-1082,Fantastic customer service and works like a charm.,5,Electronics,2025-02-17,Regular,Positive,0.4
+REV-1083,Great quality and fast shipping. Highly recommend!,5,Home & Kitchen,2025-01-13,VIP,Positive,0.4
+REV-1084,Terrible quality broke after two days of use.,1,Electronics,2025-08-22,New,Negative,-1.0
+REV-1085,"Met basic expectations, though I expected a bit more durability.",3,Beauty,2025-09-11,VIP,Positive,0.13
+REV-1086,Absolutely love this product! Exceeded my expectations.,5,Beauty,2025-08-06,New,Positive,0.62
+REV-1087,"Horrible experience, delayed shipping and poor item condition.",1,Home & Kitchen,2025-01-26,New,Negative,-0.7
+REV-1088,Very disappointed. Customer support was unhelpful.,1,Books,2025-08-26,New,Negative,-0.98
+REV-1089,"Met basic expectations, though I expected a bit more durability.",3,Books,2025-11-10,VIP,Positive,0.13
+REV-1090,Very disappointed. Customer support was unhelpful.,1,Books,2025-09-01,Regular,Negative,-0.98
+REV-1091,"Decent quality, but packaging was slightly damaged.",3,Beauty,2025-09-24,Regular,Neutral,0.0
+REV-1092,Fantastic customer service and works like a charm.,5,Beauty,2025-05-01,VIP,Positive,0.4
+REV-1093,Great quality and fast shipping. Highly recommend!,5,Apparel,2025-03-19,Regular,Positive,0.4
+REV-1094,"It's okay, nothing special. Does the job.",3,Home & Kitchen,2025-08-01,Regular,Positive,0.43
+REV-1095,Great quality and fast shipping. Highly recommend!,5,Beauty,2025-08-04,Regular,Positive,0.4
+REV-1096,Do not buy this! Total waste of money.,1,Beauty,2025-07-14,VIP,Neutral,-0.1
+REV-1097,"Horrible experience, delayed shipping and poor item condition.",1,Beauty,2025-08-03,New,Negative,-0.7
+REV-1098,Average product for the price. Delivery took a bit long.,3,Books,2025-09-07,VIP,Neutral,-0.1
+REV-1099,Fantastic customer service and works like a charm.,4,Home & Kitchen,2025-12-09,Regular,Positive,0.4
+REV-1100,Great quality and fast shipping. Highly recommend!,5,Beauty,2025-11-15,VIP,Positive,0.4
+REV-1101,Terrible quality broke after two days of use.,1,Books,2025-02-12,New,Negative,-1.0
+REV-1102,Not worth the money at all. Stopped working immediately.,1,Beauty,2025-07-14,New,Negative,-0.15
+REV-1103,"Very happy with my purchase, worth every penny.",4,Apparel,2025-05-23,New,Positive,0.65
+REV-1104,Do not buy this! Total waste of money.,1,Beauty,2025-01-27,Regular,Neutral,-0.1
+REV-1105,"It's okay, nothing special. Does the job.",3,Apparel,2025-01-16,New,Positive,0.43
+REV-1106,Very disappointed. Customer support was unhelpful.,1,Home & Kitchen,2025-03-06,New,Negative,-0.98
+REV-1107,"Very happy with my purchase, worth every penny.",5,Beauty,2025-12-25,VIP,Positive,0.65
+REV-1108,Absolutely love this product! Exceeded my expectations.,5,Apparel,2025-03-25,Regular,Positive,0.62
+REV-1109,"The item is fine, but instructions were confusing.",3,Apparel,2025-12-13,New,Neutral,0.06
+REV-1110,Do not buy this! Total waste of money.,1,Beauty,2025-12-20,Regular,Neutral,-0.1
+REV-1111,"The item is fine, but instructions were confusing.",3,Home & Kitchen,2025-03-03,New,Neutral,0.06
+REV-1112,Fantastic customer service and works like a charm.,5,Books,2025-02-05,New,Positive,0.4
+REV-1113,"Very happy with my purchase, worth every penny.",5,Books,2025-02-24,VIP,Positive,0.65
+REV-1114,Average product for the price. Delivery took a bit long.,3,Beauty,2025-08-11,Regular,Neutral,-0.1
+REV-1115,Top-notch quality. Will definitely buy again!,5,Home & Kitchen,2025-10-03,VIP,Positive,0.5
+REV-1116,Fantastic customer service and works like a charm.,5,Beauty,2025-06-15,Regular,Positive,0.4
+REV-1117,"Very happy with my purchase, worth every penny.",5,Home & Kitchen,2025-10-19,New,Positive,0.65
+REV-1118,Fantastic customer service and works like a charm.,4,Books,2025-04-04,VIP,Positive,0.4
+REV-1119,Fantastic customer service and works like a charm.,4,Beauty,2025-11-02,New,Positive,0.4
+REV-1120,Absolutely love this product! Exceeded my expectations.,5,Apparel,2025-05-04,VIP,Positive,0.62
+REV-1121,"Met basic expectations, though I expected a bit more durability.",2,Beauty,2025-11-27,Regular,Positive,0.13
+REV-1122,Average product for the price. Delivery took a bit long.,2,Beauty,2025-07-27,Regular,Neutral,-0.1
+REV-1123,"The item is fine, but instructions were confusing.",3,Home & Kitchen,2025-09-29,Regular,Neutral,0.06
+REV-1124,Not worth the money at all. Stopped working immediately.,1,Apparel,2025-12-26,Regular,Negative,-0.15
+REV-1125,Great quality and fast shipping. Highly recommend!,4,Beauty,2025-06-11,Regular,Positive,0.4
+REV-1126,Great quality and fast shipping. Highly recommend!,5,Electronics,2025-04-09,VIP,Positive,0.4
+REV-1127,Top-notch quality. Will definitely buy again!,5,Home & Kitchen,2025-11-02,VIP,Positive,0.5
+REV-1128,Not worth the money at all. Stopped working immediately.,1,Apparel,2025-04-02,New,Negative,-0.15
+REV-1129,"It's okay, nothing special. Does the job.",2,Apparel,2025-01-28,New,Positive,0.43
+REV-1130,"Met basic expectations, though I expected a bit more durability.",2,Books,2025-02-22,Regular,Positive,0.13
+REV-1131,Fantastic customer service and works like a charm.,5,Electronics,2025-04-05,VIP,Positive,0.4
+REV-1132,Terrible quality broke after two days of use.,1,Electronics,2025-07-25,Regular,Negative,-1.0
+REV-1133,Average product for the price. Delivery took a bit long.,3,Beauty,2025-03-18,New,Neutral,-0.1
+REV-1134,Top-notch quality. Will definitely buy again!,4,Books,2025-08-02,Regular,Positive,0.5
+REV-1135,"The item is fine, but instructions were confusing.",2,Books,2025-07-14,VIP,Neutral,0.06
+REV-1136,"Very happy with my purchase, worth every penny.",5,Beauty,2025-06-06,Regular,Positive,0.65
+REV-1137,Absolutely love this product! Exceeded my expectations.,5,Books,2025-04-17,VIP,Positive,0.62
+REV-1138,Average product for the price. Delivery took a bit long.,2,Home & Kitchen,2025-10-10,Regular,Neutral,-0.1
+REV-1139,Top-notch quality. Will definitely buy again!,5,Electronics,2025-08-29,New,Positive,0.5
+REV-1140,"Very happy with my purchase, worth every penny.",5,Apparel,2025-02-06,New,Positive,0.65
+REV-1141,Average product for the price. Delivery took a bit long.,3,Home & Kitchen,2025-08-06,Regular,Neutral,-0.1
+REV-1142,Fantastic customer service and works like a charm.,4,Electronics,2025-03-14,VIP,Positive,0.4
+REV-1143,Top-notch quality. Will definitely buy again!,4,Electronics,2025-05-28,New,Positive,0.5
+REV-1144,"Very happy with my purchase, worth every penny.",4,Beauty,2025-05-20,New,Positive,0.65
+REV-1145,Absolutely love this product! Exceeded my expectations.,4,Books,2025-08-10,VIP,Positive,0.62
+REV-1146,Top-notch quality. Will definitely buy again!,4,Apparel,2025-10-28,VIP,Positive,0.5
+REV-1147,Very disappointed. Customer support was unhelpful.,1,Electronics,2025-08-29,VIP,Negative,-0.98
+REV-1148,Top-notch quality. Will definitely buy again!,4,Books,2025-08-12,VIP,Positive,0.5
+REV-1149,Fantastic customer service and works like a charm.,5,Beauty,2025-12-10,New,Positive,0.4
+REV-1150,Fantastic customer service and works like a charm.,5,Electronics,2025-12-06,New,Positive,0.4
+REV-1151,Fantastic customer service and works like a charm.,4,Beauty,2025-06-15,VIP,Positive,0.4
+REV-1152,Terrible quality broke after two days of use.,2,Electronics,2025-12-03,Regular,Negative,-1.0
+REV-1153,Fantastic customer service and works like a charm.,4,Books,2025-11-15,Regular,Positive,0.4
+REV-1154,Fantastic customer service and works like a charm.,4,Beauty,2025-10-09,VIP,Positive,0.4
+REV-1155,Absolutely love this product! Exceeded my expectations.,5,Home & Kitchen,2025-01-15,Regular,Positive,0.62
+REV-1156,"It's okay, nothing special. Does the job.",3,Books,2025-10-10,New,Positive,0.43
+REV-1157,Absolutely love this product! Exceeded my expectations.,5,Beauty,2025-08-25,New,Positive,0.62
+REV-1158,Not worth the money at all. Stopped working immediately.,1,Electronics,2025-09-18,VIP,Negative,-0.15
+REV-1159,Very disappointed. Customer support was unhelpful.,2,Apparel,2025-08-22,Regular,Negative,-0.98
+REV-1160,Top-notch quality. Will definitely buy again!,5,Books,2025-03-11,New,Positive,0.5
+REV-1161,"Decent quality, but packaging was slightly damaged.",3,Electronics,2025-09-17,Regular,Neutral,0.0
+REV-1162,Top-notch quality. Will definitely buy again!,4,Apparel,2025-10-24,New,Positive,0.5
+REV-1163,Fantastic customer service and works like a charm.,5,Beauty,2025-10-10,New,Positive,0.4
+REV-1164,Great quality and fast shipping. Highly recommend!,4,Books,2025-12-24,Regular,Positive,0.4
+REV-1165,"Very happy with my purchase, worth every penny.",5,Home & Kitchen,2025-01-23,VIP,Positive,0.65
+REV-1166,"Very happy with my purchase, worth every penny.",5,Apparel,2025-07-17,VIP,Positive,0.65
+REV-1167,Do not buy this! Total waste of money.,1,Home & Kitchen,2025-06-19,Regular,Neutral,-0.1
+REV-1168,Absolutely love this product! Exceeded my expectations.,5,Electronics,2025-03-15,Regular,Positive,0.62
+REV-1169,Not worth the money at all. Stopped working immediately.,1,Beauty,2025-06-23,VIP,Negative,-0.15
+REV-1170,Fantastic customer service and works like a charm.,4,Books,2025-12-12,VIP,Positive,0.4
+REV-1171,"Horrible experience, delayed shipping and poor item condition.",1,Books,2025-10-05,Regular,Negative,-0.7
+REV-1172,Fantastic customer service and works like a charm.,5,Electronics,2025-04-27,VIP,Positive,0.4
+REV-1173,Terrible quality broke after two days of use.,2,Electronics,2025-08-16,Regular,Negative,-1.0
+REV-1174,Fantastic customer service and works like a charm.,4,Home & Kitchen,2025-01-29,VIP,Positive,0.4
+REV-1175,Top-notch quality. Will definitely buy again!,4,Apparel,2025-07-30,Regular,Positive,0.5
+REV-1176,"It's okay, nothing special. Does the job.",2,Books,2025-11-09,VIP,Positive,0.43
+REV-1177,"The item is fine, but instructions were confusing.",3,Beauty,2025-03-15,VIP,Neutral,0.06
+REV-1178,"It's okay, nothing special. Does the job.",3,Home & Kitchen,2025-08-27,Regular,Positive,0.43
+REV-1179,Fantastic customer service and works like a charm.,4,Apparel,2025-10-28,VIP,Positive,0.4
+REV-1180,"Horrible experience, delayed shipping and poor item condition.",1,Apparel,2025-06-04,VIP,Negative,-0.7
+REV-1181,"Horrible experience, delayed shipping and poor item condition.",1,Home & Kitchen,2025-10-20,Regular,Negative,-0.7
+REV-1182,Absolutely love this product! Exceeded my expectations.,5,Apparel,2025-12-04,VIP,Positive,0.62
+REV-1183,Absolutely love this product! Exceeded my expectations.,5,Beauty,2025-11-07,Regular,Positive,0.62
+REV-1184,"Decent quality, but packaging was slightly damaged.",2,Beauty,2025-04-23,Regular,Neutral,0.0
+REV-1185,Great quality and fast shipping. Highly recommend!,5,Home & Kitchen,2025-11-18,VIP,Positive,0.4
+REV-1186,"Met basic expectations, though I expected a bit more durability.",3,Electronics,2025-01-18,VIP,Positive,0.13
+REV-1187,"Decent quality, but packaging was slightly damaged.",2,Books,2025-06-17,Regular,Neutral,0.0
+REV-1188,Fantastic customer service and works like a charm.,5,Beauty,2025-09-29,New,Positive,0.4
+REV-1189,"Horrible experience, delayed shipping and poor item condition.",1,Books,2025-06-01,Regular,Negative,-0.7
+REV-1190,Great quality and fast shipping. Highly recommend!,4,Apparel,2025-12-13,New,Positive,0.4
+REV-1191,Absolutely love this product! Exceeded my expectations.,5,Beauty,2025-05-16,VIP,Positive,0.62
+REV-1192,Fantastic customer service and works like a charm.,5,Books,2025-10-27,New,Positive,0.4
+REV-1193,Very disappointed. Customer support was unhelpful.,1,Beauty,2025-08-30,VIP,Negative,-0.98
+REV-1194,Do not buy this! Total waste of money.,1,Electronics,2025-04-24,VIP,Neutral,-0.1
+REV-1195,Not worth the money at all. Stopped working immediately.,2,Electronics,2025-11-29,VIP,Negative,-0.15
+REV-1196,Fantastic customer service and works like a charm.,5,Beauty,2025-09-10,New,Positive,0.4
+REV-1197,"Very happy with my purchase, worth every penny.",5,Electronics,2025-08-21,New,Positive,0.65
+REV-1198,Do not buy this! Total waste of money.,1,Apparel,2025-08-03,VIP,Neutral,-0.1
+REV-1199,"It's okay, nothing special. Does the job.",3,Books,2025-09-08,VIP,Positive,0.43
+REV-1200,Not worth the money at all. Stopped working immediately.,1,Books,2025-04-22,Regular,Negative,-0.15
+REV-1201,Terrible quality broke after two days of use.,2,Beauty,2025-12-18,Regular,Negative,-1.0
+REV-1202,Terrible quality broke after two days of use.,1,Apparel,2025-07-23,VIP,Negative,-1.0
+REV-1203,"Horrible experience, delayed shipping and poor item condition.",2,Apparel,2025-02-16,New,Negative,-0.7
+REV-1204,"It's okay, nothing special. Does the job.",3,Home & Kitchen,2025-06-20,VIP,Positive,0.43
+REV-1205,"The item is fine, but instructions were confusing.",2,Home & Kitchen,2025-04-17,New,Neutral,0.06
+REV-1206,Very disappointed. Customer support was unhelpful.,1,Books,2025-11-02,New,Negative,-0.98
+REV-1207,Very disappointed. Customer support was unhelpful.,1,Electronics,2025-10-04,Regular,Negative,-0.98
+REV-1208,Great quality and fast shipping. Highly recommend!,5,Apparel,2025-01-08,New,Positive,0.4
+REV-1209,"Decent quality, but packaging was slightly damaged.",2,Apparel,2025-01-27,New,Neutral,0.0
+REV-1210,Absolutely love this product! Exceeded my expectations.,4,Home & Kitchen,2025-09-01,VIP,Positive,0.62
+REV-1211,Top-notch quality. Will definitely buy again!,4,Beauty,2025-04-24,Regular,Positive,0.5
+REV-1212,"The item is fine, but instructions were confusing.",3,Books,2025-06-04,New,Neutral,0.06
+REV-1213,"Horrible experience, delayed shipping and poor item condition.",1,Beauty,2025-07-25,VIP,Negative,-0.7
+REV-1214,"Very happy with my purchase, worth every penny.",5,Beauty,2025-02-07,VIP,Positive,0.65
+REV-1215,"Decent quality, but packaging was slightly damaged.",2,Electronics,2025-11-16,Regular,Neutral,0.0
+REV-1216,"The item is fine, but instructions were confusing.",3,Books,2025-09-29,VIP,Neutral,0.06
+REV-1217,Absolutely love this product! Exceeded my expectations.,5,Apparel,2025-12-02,Regular,Positive,0.62
+REV-1218,Very disappointed. Customer support was unhelpful.,1,Books,2025-07-31,VIP,Negative,-0.98
+REV-1219,Fantastic customer service and works like a charm.,5,Apparel,2025-08-07,Regular,Positive,0.4
+REV-1220,"Very happy with my purchase, worth every penny.",5,Apparel,2025-02-04,VIP,Positive,0.65
+REV-1221,Fantastic customer service and works like a charm.,4,Electronics,2025-03-08,New,Positive,0.4
+REV-1222,"Decent quality, but packaging was slightly damaged.",3,Books,2025-12-10,New,Neutral,0.0
+REV-1223,"Very happy with my purchase, worth every penny.",5,Electronics,2025-01-27,Regular,Positive,0.65
+REV-1224,Top-notch quality. Will definitely buy again!,4,Apparel,2025-04-19,VIP,Positive,0.5
+REV-1225,Fantastic customer service and works like a charm.,5,Home & Kitchen,2025-10-12,VIP,Positive,0.4
+REV-1226,"Met basic expectations, though I expected a bit more durability.",3,Apparel,2025-10-15,New,Positive,0.13
+REV-1227,"The item is fine, but instructions were confusing.",3,Books,2025-12-03,VIP,Neutral,0.06
+REV-1228,Fantastic customer service and works like a charm.,5,Apparel,2025-06-23,New,Positive,0.4
+REV-1229,"Very happy with my purchase, worth every penny.",4,Apparel,2025-02-05,New,Positive,0.65
+REV-1230,"The item is fine, but instructions were confusing.",2,Home & Kitchen,2025-04-21,VIP,Neutral,0.06
+REV-1231,Fantastic customer service and works like a charm.,4,Beauty,2025-06-16,Regular,Positive,0.4
+REV-1232,Great quality and fast shipping. Highly recommend!,4,Books,2025-11-13,VIP,Positive,0.4
+REV-1233,"Very happy with my purchase, worth every penny.",5,Electronics,2025-09-06,VIP,Positive,0.65
+REV-1234,Top-notch quality. Will definitely buy again!,4,Books,2025-02-28,Regular,Positive,0.5
+REV-1235,Top-notch quality. Will definitely buy again!,5,Apparel,2025-09-07,Regular,Positive,0.5
+REV-1236,Top-notch quality. Will definitely buy again!,4,Books,2025-01-29,VIP,Positive,0.5
+REV-1237,Great quality and fast shipping. Highly recommend!,4,Electronics,2025-05-11,New,Positive,0.4
+REV-1238,"Very happy with my purchase, worth every penny.",5,Apparel,2025-03-31,Regular,Positive,0.65
+REV-1239,Top-notch quality. Will definitely buy again!,4,Home & Kitchen,2025-12-09,Regular,Positive,0.5
+REV-1240,"Very happy with my purchase, worth every penny.",5,Apparel,2025-01-10,New,Positive,0.65
+REV-1241,Do not buy this! Total waste of money.,1,Beauty,2025-07-27,New,Neutral,-0.1
+REV-1242,Fantastic customer service and works like a charm.,4,Beauty,2025-03-29,Regular,Positive,0.4
+REV-1243,Terrible quality broke after two days of use.,2,Books,2025-08-12,Regular,Negative,-1.0
+REV-1244,Absolutely love this product! Exceeded my expectations.,5,Electronics,2025-07-22,New,Positive,0.62
+REV-1245,Great quality and fast shipping. Highly recommend!,4,Apparel,2025-02-09,VIP,Positive,0.4
+REV-1246,Fantastic customer service and works like a charm.,5,Books,2025-06-29,VIP,Positive,0.4
+REV-1247,Great quality and fast shipping. Highly recommend!,4,Home & Kitchen,2025-11-05,New,Positive,0.4
+REV-1248,"Very happy with my purchase, worth every penny.",5,Home & Kitchen,2025-08-26,VIP,Positive,0.65
+REV-1249,Top-notch quality. Will definitely buy again!,5,Books,2025-11-26,VIP,Positive,0.5
+REV-1250,Very disappointed. Customer support was unhelpful.,1,Books,2025-08-14,Regular,Negative,-0.98
+REV-1251,Fantastic customer service and works like a charm.,4,Electronics,2025-10-30,Regular,Positive,0.4
+REV-1252,"Very happy with my purchase, worth every penny.",4,Electronics,2025-01-20,Regular,Positive,0.65
+REV-1253,Terrible quality broke after two days of use.,1,Electronics,2025-11-11,Regular,Negative,-1.0
+REV-1254,Absolutely love this product! Exceeded my expectations.,5,Books,2025-08-19,VIP,Positive,0.62
+REV-1255,Top-notch quality. Will definitely buy again!,5,Books,2025-03-19,VIP,Positive,0.5
+REV-1256,Fantastic customer service and works like a charm.,5,Electronics,2026-01-01,Regular,Positive,0.4
+REV-1257,"Met basic expectations, though I expected a bit more durability.",2,Electronics,2025-08-13,VIP,Positive,0.13
+REV-1258,"Decent quality, but packaging was slightly damaged.",3,Books,2025-07-18,VIP,Neutral,0.0
+REV-1259,"Decent quality, but packaging was slightly damaged.",2,Beauty,2025-02-03,Regular,Neutral,0.0
+REV-1260,"Decent quality, but packaging was slightly damaged.",3,Apparel,2025-12-03,New,Neutral,0.0
+REV-1261,Great quality and fast shipping. Highly recommend!,5,Books,2025-06-29,New,Positive,0.4
+REV-1262,"The item is fine, but instructions were confusing.",3,Apparel,2025-12-29,VIP,Neutral,0.06
+REV-1263,"Decent quality, but packaging was slightly damaged.",3,Electronics,2025-03-07,Regular,Neutral,0.0
+REV-1264,"Decent quality, but packaging was slightly damaged.",3,Books,2025-01-10,New,Neutral,0.0
+REV-1265,"Very happy with my purchase, worth every penny.",4,Apparel,2025-04-09,Regular,Positive,0.65
+REV-1266,Absolutely love this product! Exceeded my expectations.,4,Home & Kitchen,2025-09-17,New,Positive,0.62
+REV-1267,Not worth the money at all. Stopped working immediately.,1,Books,2025-11-13,VIP,Negative,-0.15
+REV-1268,Top-notch quality. Will definitely buy again!,4,Home & Kitchen,2025-03-26,VIP,Positive,0.5
+REV-1269,Great quality and fast shipping. Highly recommend!,5,Beauty,2025-08-16,New,Positive,0.4
+REV-1270,Average product for the price. Delivery took a bit long.,3,Books,2025-10-01,Regular,Neutral,-0.1
+REV-1271,Very disappointed. Customer support was unhelpful.,2,Home & Kitchen,2025-07-08,Regular,Negative,-0.98
+REV-1272,"Very happy with my purchase, worth every penny.",4,Books,2025-09-15,Regular,Positive,0.65
+REV-1273,Do not buy this! Total waste of money.,2,Books,2025-03-12,Regular,Neutral,-0.1
+REV-1274,"The item is fine, but instructions were confusing.",3,Apparel,2025-02-22,New,Neutral,0.06
+REV-1275,Fantastic customer service and works like a charm.,5,Books,2025-08-19,New,Positive,0.4
+REV-1276,Very disappointed. Customer support was unhelpful.,1,Books,2025-08-19,New,Negative,-0.98
+REV-1277,Fantastic customer service and works like a charm.,4,Apparel,2025-05-01,New,Positive,0.4
+REV-1278,Absolutely love this product! Exceeded my expectations.,4,Beauty,2026-01-01,New,Positive,0.62
+REV-1279,"Very happy with my purchase, worth every penny.",4,Apparel,2025-12-23,New,Positive,0.65
+REV-1280,Absolutely love this product! Exceeded my expectations.,5,Home & Kitchen,2025-01-10,VIP,Positive,0.62
+REV-1281,Do not buy this! Total waste of money.,1,Apparel,2025-09-28,New,Neutral,-0.1
+REV-1282,"It's okay, nothing special. Does the job.",2,Beauty,2025-01-25,New,Positive,0.43
+REV-1283,"It's okay, nothing special. Does the job.",3,Home & Kitchen,2025-02-26,Regular,Positive,0.43
+REV-1284,Top-notch quality. Will definitely buy again!,5,Beauty,2025-05-04,VIP,Positive,0.5
+REV-1285,Great quality and fast shipping. Highly recommend!,5,Home & Kitchen,2025-10-20,Regular,Positive,0.4
+REV-1286,"Decent quality, but packaging was slightly damaged.",2,Beauty,2025-02-04,New,Neutral,0.0
+REV-1287,Top-notch quality. Will definitely buy again!,5,Books,2025-01-11,VIP,Positive,0.5
+REV-1288,Fantastic customer service and works like a charm.,4,Beauty,2025-05-10,Regular,Positive,0.4
+REV-1289,"It's okay, nothing special. Does the job.",3,Electronics,2025-10-25,Regular,Positive,0.43
+REV-1290,Great quality and fast shipping. Highly recommend!,5,Apparel,2025-12-17,New,Positive,0.4
+REV-1291,Great quality and fast shipping. Highly recommend!,4,Beauty,2025-02-02,VIP,Positive,0.4
+REV-1292,Great quality and fast shipping. Highly recommend!,4,Beauty,2025-01-22,New,Positive,0.4
+REV-1293,Top-notch quality. Will definitely buy again!,5,Apparel,2025-08-31,Regular,Positive,0.5
+REV-1294,"Decent quality, but packaging was slightly damaged.",2,Apparel,2025-01-25,New,Neutral,0.0
+REV-1295,"Very happy with my purchase, worth every penny.",4,Apparel,2025-08-14,Regular,Positive,0.65
+REV-1296,"Horrible experience, delayed shipping and poor item condition.",1,Beauty,2025-07-08,Regular,Negative,-0.7
+REV-1297,Terrible quality broke after two days of use.,2,Books,2025-08-09,Regular,Negative,-1.0
+REV-1298,Absolutely love this product! Exceeded my expectations.,4,Books,2025-06-17,New,Positive,0.62
+REV-1299,Great quality and fast shipping. Highly recommend!,5,Apparel,2025-12-20,Regular,Positive,0.4
+REV-1300,Fantastic customer service and works like a charm.,5,Beauty,2025-11-11,Regular,Positive,0.4
